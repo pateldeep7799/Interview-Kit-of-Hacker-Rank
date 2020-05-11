@@ -3,7 +3,7 @@
 <li> 2. Counting Valleys </li>
 <li> 3. Jumping Clouds </li>
 <li> 4. Repeated String </li>
-# Array
+#Array
 <li> 1. 2D Array </li>
 <li> 2. Left Rotation </li>
 <li> 3. New Year Chaos </li>
